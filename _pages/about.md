@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,10 +11,10 @@ Welcome! I am a Research Associate at the MRC/CSO Social and Public Health Scien
 
 I work at the intersection of epidemiology, causal inference, and evidence synthesis. My research helps policymakers and researchers understand whether social policies—like cash transfers, housing programs, and parental support—actually improve health outcomes. Some of the topics I explore include:
 
-* Developing causal assessment frameworks for systematic reviews
-* Income inequality and health outcomes  
-* Policy evaluation methods for real-world interventions
-* Bridging research evidence with government decision-making
+- Developing causal assessment frameworks for systematic reviews
+- Income inequality and health outcomes
+- Policy evaluation methods for real-world interventions
+- Bridging research evidence with government decision-making
 
 Currently, I lead evidence synthesis projects and co-design evaluation plans with local and regional governments across the UK. My approach combines rigorous causal inference methods with practical tools that work in messy, real-world policy contexts.
 
@@ -27,4 +26,4 @@ I completed my PhD at the University of Glasgow in 2023, where my thesis develop
 
 Beyond research, I teach on the Master of Public Health program at the University of Edinburgh, where I've been involved in courses on complex interventions, R programming, and systematic reviews.
 
-Feel free to explore my [CV](/cv/) and [Publications](/publications/) page for more details about my research. You can reach me at [michal.shimonovich@glasgow.ac.uk](mailto:michal.shimonovich@glasgow.ac.uk).
+Feel free to explore my [CV](/cv/) and [Research](/research/) pages for more details about my work. You can reach me at [michal.shimonovich@glasgow.ac.uk](mailto:michal.shimonovich@glasgow.ac.uk).
